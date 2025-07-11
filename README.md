@@ -2,7 +2,7 @@ Olá!
 
 Me chamo João Victor, tenho 23 anos e amo computação e tecnologia.
 
-Atualmente estou finalizando meus estudos em Análise e Desenvolvimento de Sistemas pela Faculdade Vincit.
+Atualmente estou estudando Engenharia da Computação, na Faculdade UNIVESP.
 
 Estou direcionando meus estudos ao desenvolvimento Back-End, por meio da linguagem Java, para adquirir conhecimentos sólidos no framework SpringBoot, que é utilizado para a criação de APIs.
 Anteriormente, realizei estudo em Python para que fosse possivel aprender a utilizar FastAPI e PANDAS. Também tive conhecimentos básicos em JavaScript, html e css, para que pudesse realizar o consumo das Apis de teste.
