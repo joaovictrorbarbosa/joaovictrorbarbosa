@@ -4,8 +4,7 @@ Me chamo João Victor, tenho 23 anos e amo computação e tecnologia.
 
 Atualmente estou estudando Engenharia da Computação, na Faculdade UNIVESP.
 
-Estou direcionando meus estudos ao desenvolvimento Back-End, por meio da linguagem Java, para adquirir conhecimentos sólidos no framework Spring.
-Anteriormente, realizei estudo em Python para que fosse possivel aprender a utilizar FastAPI e PANDAS. Também tive conhecimentos básicos em JavaScript, html e css, para que pudesse realizar o consumo das Apis de teste.
+Estou direcionando meus estudos ao desenvolvimento Back-End, por meio da linguagem Java, para adquirir conhecimentos sólidos no framework Spring. Também tive conhecimentos básicos em JavaScript, html e css, para que pudesse realizar o consumo das Apis de teste.
 
 ## Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/>
