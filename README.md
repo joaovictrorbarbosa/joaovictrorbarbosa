@@ -7,20 +7,20 @@ Atualmente estou estudando Engenharia da Computação, na Faculdade UNIVESP.
 Estou direcionando meus estudos ao desenvolvimento Back-End, por meio da linguagem Java, para adquirir conhecimentos sólidos no framework Spring. Também tive conhecimentos básicos em JavaScript, html e css, para que pudesse realizar o consumo das Apis de teste.
 
 ## Tecnologias:
--JAVA
--PYTHON
--HTML 5
--CSS
--JAVASCRIPT
--MYSQL
--SQLITE
+-JAVA <br>
+-PYTHON <br>
+-HTML 5 <br>
+-CSS <br>
+-JAVASCRIPT <br>
+-MYSQL <br>
+-SQLITE <br>
 
 ## Ferramentas:
--SpringToolSuite (SpringBoot)
--VScode
--PyCharm
--Jupyter
--SublimeText
+-SpringToolSuite (SpringBoot)<br>
+-VScode <br>
+-PyCharm <br>
+-Jupyter <br>
+-SublimeText <br>
 
 # Contatos:
 <div>
